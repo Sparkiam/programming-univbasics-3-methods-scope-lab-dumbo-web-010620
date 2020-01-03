@@ -10,3 +10,7 @@ end
 def link 
   puts phrase = "It's Dangerous To Go Alone! Take This." 
 end 
+
+def any_phrase
+  puts phrase = "This is probaby Super Smash Bros related"
+end 
