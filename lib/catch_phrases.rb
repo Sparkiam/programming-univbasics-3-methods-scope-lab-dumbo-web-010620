@@ -12,5 +12,5 @@ def link
 end 
 
 def any_phrase
-  puts phrase = "This is probaby Super Smash Bros related"
+  puts phrase = "Do a Barrel Roll!"
 end 
