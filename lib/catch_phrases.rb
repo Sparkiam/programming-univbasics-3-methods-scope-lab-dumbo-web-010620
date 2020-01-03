@@ -12,5 +12,5 @@ def link
 end 
 
 def any_phrase
-  puts phrase = "Do a Barrel Roll!"
+  puts status = "Do a Barrel Roll!"
 end 
